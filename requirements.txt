@@ -1,5 +1,6 @@
 pandas
 numpy
+scipy
 scikit-learn
 seaborn
 matplotlib
@@ -10,3 +11,4 @@ kmodes
 xgboost
 imbalanced-learn
 optuna
+shap
