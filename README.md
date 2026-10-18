@@ -1,6 +1,7 @@
-# Diabetes Risk Analysis: Segmentation & Prediction on CDC BRFSS Data
+# Diabetes Risk Analysis
 
-**Roshan Balaji Mahashabde** · FAIDM Individual Project, University of Warwick
+## Roshan Balaji Mahashabde
+---
 
 ![K-Means cluster profiles: z-score deviation of each segment from the population mean](docs/images/cluster_profiles.png)
 
@@ -159,7 +160,3 @@ FAIDM-Individual/
         ├── 03_classification_model.ipynb
         └── 04_classification_multi.ipynb
 ```
-
-## License
-
-Academic coursework, shared for educational purposes.
